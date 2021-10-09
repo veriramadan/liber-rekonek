@@ -27,4 +27,4 @@ rm /root/libernet/system/config.json && wget -O "/root/libernet/system/config.js
 ```
 **kalo udh jngn lupa clear cache browser "ini wajib biar ga error"**
 
-**untuk jaga2 jangan lupa reboot stbstb dulu
+**untuk jaga2 jangan lupa reboot stb dulu
